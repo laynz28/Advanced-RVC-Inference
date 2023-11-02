@@ -47,3 +47,4 @@ For Other:
 ```bash
 python infer.py
 ```
+## RMVPE is the best pitch algo!
