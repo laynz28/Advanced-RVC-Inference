@@ -1,6 +1,6 @@
 <div align="center">
 
-# Advanced RVC Inference
+# Advanced RVC Inference (ARI)
 
 [![Colab](https://img.shields.io/badge/Colab-Advanced%20RVC%20Inference-blue?style=for-the-badge&logo=googlecolab)](https://colab.research.google.com/github/ArkanDash/Advanced-RVC-Inference/blob/master/Advanced-RVC.ipynb)
 </div>
