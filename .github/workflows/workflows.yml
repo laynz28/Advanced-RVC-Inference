@@ -1,0 +1,8 @@
+# Step 1: Add the android.repositories.maven() step to your workflow file.
+config_steps.android_repositories_maven
+
+# Step 2: Add the android.build() step to your workflow file.
+config_steps.android_device_build
+
+# Step 3: Add the android.install.dist() step to your workflow file.
+config_steps.android_device_install
