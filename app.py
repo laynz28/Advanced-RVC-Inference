@@ -14,6 +14,16 @@ from scipy.io import wavfile
 from datetime import datetime
 from urllib.parse import urlparse
 from mega import Mega
+import android.support.v7.app.AppCompatActivity;
+import android.os.Bundle;
+import android.view.View;
+import android.widget.TextView;
+import org.kivy.android.platform.KivyObjectQueue;
+import org.kivy.android.platform.PlatformContext;
+import org.kivy.android.platform.V7AppCompatActivity;
+import org.kivy.android.factory.AndroidFactory;
+import org.kivy.android.factory.KivyProxyImpl;
+import org.kivy.android
 
 now_dir = os.getcwd()
 tmp = os.path.join(now_dir, "TEMP")
